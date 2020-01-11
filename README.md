@@ -1,2 +1,2 @@
 # machine-learning
-mostly use jupyter-notebook, some code comes from deepleaning and ml course on coursera
+learning machine-learning. some code comes from deep leaning and ml course on coursera
